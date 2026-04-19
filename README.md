@@ -20,7 +20,7 @@ This project is developed to understand core programming concepts like data stru
 ---
 
 ## 🛠️ Technologies Used
-- Programming Language: C / Python *(mention your language)*
+- Programming Language:  Python 
 - Concepts:
   - Data Structures
   - File Handling
@@ -30,3 +30,8 @@ This project is developed to understand core programming concepts like data stru
 ---
 
 ## 📂 Project Structure
+ATM-Simulation-System/
+│── main.c / main.py
+│── user_data.txt
+│── transactions.txt
+│── README.md
